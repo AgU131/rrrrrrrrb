@@ -9,7 +9,7 @@ class HolaMundo
 	def saluda()
 		arreglo = [1,2,3] 
 		puts arreglo[0]
-		puts arreglo<<"aAaA"
+		puts arreglo << "aAaA"
 		print arreglo[-2]
 		print "\n"
 		print arreglo.push("zZzZz")
