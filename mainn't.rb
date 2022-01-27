@@ -1,3 +1,3 @@
-requiere_relative 'rb.rb'
+requiere_relative 'rrrrb.rb'
 class CAssa
 end
