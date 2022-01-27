@@ -1,3 +1,5 @@
 requiere_relative 'rrrrb.rb'
-class CAssa
+class Cassa
+  initialize()
+  end
 end
